@@ -1,0 +1,29 @@
+#bye{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    width: 100%;
+}
+
+.link{
+    font-size: 20px;
+    float: right;
+    font-weight: bolder;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 15px;
+  
+}
+body{
+    background-position: center;
+    background-size: cover; 
+}
+#status {
+    font-size: 17px;
+    margin-left: 100px;
+}
+#hi {
+    font-size: 15px;
+    font-weight: bolder;
+    margin-bottom: 650px;
+}
